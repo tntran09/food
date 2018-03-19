@@ -1,14 +1,20 @@
 had:
-nam, republic, gatlin, tamashi, kim chau, tarka
-torchys, hubcap, hughies
-asia mkt, chipotle, canes, pappa geno, thomas bbq
+nam, republic, asia mkt, pokeworks, tamashi, kim chau
+peli peli, gatlin, pinkerton (W-F), vieng thai, tarka, tortas angel
+ka, agu, hughies, good dog (~M), torchys, empanada co, pho long, sakura
+fresca, hubcap, shepherd park, puebla, cane rosso (~M), chipotle
+lees, sombrero, golden wok, cocos, canes
+pappa geno, millers, thomas bbq
 
 future:
-pho long, pho 290
-vieng thai, thai lanna
-golden wok, union kitchen
-kings, petrol (F), bernies, good dog, happy fatz
-rainbow, crisp, cane rosso
+pho 290
+street thai
+union kitchen
+kings, petrol (F)
+bernies, balls out
+rainbow, crisp
+mellow mushroom
 govinda
-tortas angel, sombrero, pupusa, puebla, chiloso, teotihuacan
-
+chiloso, teotihuacan, cabo baja, agogo, p'nches, laredo
+pupusa, la vista, perronas
+katz coffee
