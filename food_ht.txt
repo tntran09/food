@@ -1,21 +1,22 @@
 had:
-nam, asia mkt, street thai, tamashi, pokeworks, local poke, republic, kim chau
-peli peli, givrals, pho binh, gatlin, tarka, tortas angel, cantina barba, 99 ranch
-vieng thai, ka, cabo baja, sammys
-kings, pinkerton (W-F), hughies, good dog (~M), torchys, empanada co, agu
-samurai, pho long, sakura, fresca, hubcap, rice box
-shepherd park, cane rosso (~M), govinda, chipotle, papa yu, puebla
-lees, sombrero, golden wok, cocos, canes
+street thai, tamashi, pokeworks, nam, asia mkt, peli peli, givrals
+pho binh, gatlin, tarka, tortas angel, p'nches, local poke, 99 ranch
+kim chau, vieng thai, ka, cantina barba, cabo baja, sammys, bww, torchys, hughies
+kings, pinkerton (W-F), good dog (~M), empanada co, agu
+samurai, pho long, sakura, fresca, dreamwings, hubcap, rice box
+shepherd park, cane rosso (~M), govinda, chipotle, lees
+papa yu, puebla, sombrero, golden wok, cocos, canes
 pappa geno, millers, thomas bbq
 
 future:
 pho 290, miyako
 la bala, velvet taco
-union kitchen, snooze
+union kitchen, snooze, mary'z
 egg haus, petrol (F)
-bernies, balls out, pluckers
+bernies, balls out
+pluckers
 mellow mushroom, chicago italian
-chiloso, teotihuacan, agogo, p'nches, laredo
+chiloso, teotihuacan, agogo, laredo
 pupusa, la vista, perronas
 
 katz coffee
