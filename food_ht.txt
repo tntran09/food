@@ -1,11 +1,12 @@
 had:
-street thai, tamashi, pokeworks, nam, asia mkt, peli peli, givrals
+asia mkt, street thai, tamashi, pokeworks, nam, peli peli, givrals
 pho binh, gatlin, tarka, tortas angel, p'nches, la bala, 99 ranch
-kim chau, local poke, vieng thai, ka, cantina barba, cabo baja, sammys
-velvet taco, miyako, torchys, empanada co, kings
-bww, hughies, mary'z, pinkerton (W-F), good dog (~M), agu
-samurai, pho long, sakura, fresca, dreamwings, hubcap, rice box, tostada regia
-blackbird, shepherd park, cane rosso (~M), govinda, chipotle, lees
+kim chau, cabo baja, sammys, empanada co, hughies, vietnam
+ka, cantina barba, velvet taco, miyako, torchys, kings
+bww, mary'z, pinkerton (W-F), good dog (~M), agu, samurai
+pho long, sakura, uberrito, dreamwings, fresca, BB's
+local poke, vieng thai, hubcap, rice box, tostada regia
+cane rosso (~M), blackbird, shepherd park, govinda, chipotle, lees
 millers, cocos, puebla, sombrero, golden wok, canes
 pappa geno, papa yu, thomas bbq
 
