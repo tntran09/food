@@ -1,22 +1,23 @@
 had:
-asia mkt, street thai, tamashi, pokeworks, nam, peli peli, les baget
-pho binh, gatlin, tarka, perronas, p'nches, la bala, 99 ranch, truth
-tortas angel, cabo baja, empanada co, hughies, vietnam, pho hoa
-ka, cantina barba, velvet taco, torchys, hopdoddy, kim chau
-la vibra, buffburger, fresca, uberrito, flying fish, miyako, kings
-hubcap, rice box, dreamwings, pinkerton (W-F), samurai
-pho long, sakura, good dog (~M), BB's, bww, agu, mary'z
-local poke, vieng thai, egghaus, tostada regia
-cane rosso (~M), blackbird, shepherd park, govinda, chipotle, lees
+street thai, les baget (~M), tamashi, pokeworks, peli peli, nam, asia mkt
+99 ranch, p'nches, pho binh, gatlin, tarka, perronas, la bala, truth
+halal, tortas angel, cabo baja, empanada co, hughies, vietnam
+chicken & rice, ka, cantina barba, velvet taco, torchys, flying fish, hopdoddy
+piada, hubcap, bernies, egghaus, kim chau, local foods, dish, fuddruckers
+fresca, uberrito, pho hoa, la vibra, buffburger, pinkerton (W-F), local poke
+laredo, rice box, dreamwings, miyako, kings
+samurai, sakura, good dog (~M), BB's, agu
+bww, vieng thai, mary'z, pho long
+cane rosso (~M), blackbird, shepherd park, govinda, chipotle
 millers, cocos, puebla, sombrero, golden wok, canes
 pappa geno, papa yu, thomas bbq
 
 future:
+handies, hando
 union kitchen, snooze
-petrol (F), stuttgarden
-bernies
-pluckers
+petrol (F)
+pluckers, waffle bus, pollo bravo
 mellow mushroom, chicago italian
-chiloso, teotihuacan, agogo, laredo
-pupusa, la vista
+teotihuacan, agogo
+pupusa
 
