@@ -1,20 +1,20 @@
 had:
-pho, thai gourmet, tan tan, vn coast, old saigon, aka, etao, mongolian
+pho, vn coast, old saigon, aka
 pollo bravo, peru cafe, mama rosa, dish society, la bala, arandas, himalaya
-mod, chuan, yokushi, oishii, miyako, buca, local foods, uberrito, liberty taco
-hopdoddy, shake shack, bubba, burger palace, bernies, pappas, fuddruckers, becks, smash
-roostar, chuy, argentina cafe, satay, ruchi, krisp, jimmys deli
-correlli, piquet, tx tamale, sukhothai, thai bistro
-samurai sushi, jaibo, afghan expr, sozo, fat bao, ekko, fu belly
-dumpling king, chipotle, sultan pepper, whole foods, table 57, adair, dgn
-teabar, bullrito, petes, brisket house, pupusa
+mod, yokushi, oishii, local foods, liberty taco
+hopdoddy, shake shack, bubba, burger palace, pappas, fuddruckers, becks, smash
+roostar, chuy, argentina cafe, ruchi, jimmys deli
+piquet, tx tamale, sukhothai, thai bistro
+samurai sushi, jaibo, sozo, fat bao, ekko, fu belly
+dumpling king, chipotle, sultan pepper, whole foods, table 57, adair
+bullrito, petes, brisket house
 hs green, la madeleine, canes, chik fila, jersey mike, potbelly
-chinese cafe, healthycow, jenni
+chinese cafe
 
 future:
-kenny & ziggy, hideaway, maclane
-north italia, luigi, hot topping
-dimassi, zabak, indias
+kenny & ziggy, hideaway
+north italia, luigi
+dimassi, indias
 flo paris, lili
 
 
@@ -23,7 +23,6 @@ beavers
 caracol
 la table
 liberty kitchen
-peli peli
-yauatcha
+
 
 
